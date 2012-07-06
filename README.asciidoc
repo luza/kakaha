@@ -1,0 +1,3 @@
+Kakaha, lightweight imageboard engine written in PHP. Uses SQLite as database backend. 
+
+Kakaha, легковесный движок для имейдж-борд, написанный на PHP. Использует SQLite для хранения данных.
