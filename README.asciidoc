@@ -1,3 +1,18 @@
-Kakaha, lightweight imageboard engine written in PHP. Uses SQLite as database backend. 
+Summary
+~~~~~~~
+Kakaha, lightweight imageboard engine written in PHP. Uses SQLite as database backend.
 
 Kakaha, легковесный движок для имейдж-борд, написанный на PHP. Использует SQLite для хранения данных.
+
+Installation
+~~~~~~~~~~~~
+
+System requirements:
+* PHP with SQLite module.
+
+Steps to complete:
+* Upload files;
+* if your web server runs PHP under its own user, set mode 777 on the next subdirectories: images, thumbs, sqlite;
+* set base URL where imageboard is located in config.inc.php;
+* set administrator password in config.inc.php.
+
