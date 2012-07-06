@@ -1,0 +1,132 @@
+@charset "utf-8";
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	background-color: #000000;
+	color: #DDD;
+	margin: 0px;
+	padding: 0px;
+}
+a {
+	color: #C75CC7;
+}
+a:visited {
+	color: #888;
+}
+hr {
+	border-style: solid none none none;
+	border-width: 5px;
+	border-color: #111;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.logo {
+	font-size: 30px;
+	margin-left: 20px;
+	margin-top: 5px;
+	display: none;
+}
+.postarea {
+	padding-left: 30%;
+}
+.postform {
+	border: 5px solid #480649;
+}
+.postform .postblock {
+	width: 100px;
+	background-color: #111;
+	height: 28px;
+	padding-left: 5px;
+}
+
+.thread {
+	border: 5px solid #480649;
+	padding: 5px;
+	margin: 0px 10px 20px 10px;
+}
+.post_parent {
+	background-color: #111;
+	padding: 5px;
+}
+.post_child_frame {
+	padding-left: 40px;
+}
+.post_child {
+	margin-top: 10px;
+	border: 5px solid #111;
+	margin-bottom: 10px;
+}
+.post_table {
+	width: 100%;
+}
+
+.row_title {
+	font-size: 11px;
+	padding-bottom: 5px;
+	color: #888;
+}
+.div_image_text {
+	font-size: 11px;
+	color: #888;
+	padding-top: 3px;
+}
+.row_title .subject {
+	font-size: 12px;
+	color: white;
+}
+.row_title .script_a {
+	color: #888;
+	border-bottom: 1px dotted #888;
+	text-decoration: none;
+}
+
+.deleteform {
+	float: right;
+	text-align: right;
+	padding-right: 5px;
+}
+.pagespanel {
+	float: left;
+	padding-left: 10px;
+	padding-top: 5px;
+}
+.col_message {
+	vertical-align: top;
+}
+.quote {
+	color: olive;
+}
+.separator {
+	font-size: 12px;
+	color: #888;
+	padding: 15px 0px 5px 40px;
+	font-style: italic;
+}
+.footer {
+	text-align: center;
+	clear: both;
+	font-size: 12px;
+}
+
+.highlight_parent {
+	background-color: #180619;
+	border: 5px dashed #480649;
+	padding: 5px;
+}
+.highlight_child {
+	margin-top: 10px;
+	border: 5px dashed #480649;
+	background-color: #180619;
+	margin-bottom: 10px;
+}
+
+.col_image {
+	width: 210px;
+	/*padding-right: 10px;
+	padding-top: 2px;*/
+}
+.backbutton {
+	padding-left: 10px;
+	float: left;
+}

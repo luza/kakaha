@@ -1,0 +1,130 @@
+html, body {
+	background-color: #EEEEEE;
+	color: #333333;
+	font-family: "Trebuchet MS",Trebuchet,tahoma,serif;
+}
+a {
+	color: #FF6600;
+}
+a:hover {
+	color: #0066FF;
+}
+hr {
+	border-style: solid none none none;
+	border-width: 1px;
+	border-color: #BBBBBB;
+}
+.logo {
+	font-size: 30px;
+	margin-left: 10px;
+	margin-top: 5px;
+	color:#FF6600;
+}
+.postarea {
+	padding-left: 30%;
+}
+.postform td {
+}
+.backbutton {
+	padding-left: 10px;
+	float: left;
+}
+.postform .postblock {
+	width: 100px;
+	height: 28px;
+	padding-left: 5px;
+}
+.col_image {
+	width: 210px;
+	/*padding-right: 10px;
+	padding-top: 2px;*/
+}
+.thread {
+	border-bottom: solid 1px #BBBBBB;
+	margin-top: 10px;
+	padding-bottom: 10px;
+}
+
+.post_parent {
+	padding: 5px;
+}
+.post_child_frame {
+	padding-left: 40px;
+}
+.post_child  {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 5px;
+	background: #DDDDDD;
+	border: solid 1px #CCCCCC;
+}
+.post_table {
+	width: 100%;
+}
+
+.row_title {
+	font-size: 11px;
+	padding-bottom: 5px;
+	color: #888;
+}
+.div_image_text {
+	font-size: 11px;
+	color: #888;
+	padding-top: 3px;
+}
+.row_title .subject {
+	font-size: 12px;
+	color: white;
+}
+.row_title .script_a {
+	color: #888;
+	border-bottom: 1px dotted #888;
+	text-decoration: none;
+}
+
+.deleteform {
+	float: right;
+	text-align: right;
+	padding-right: 5px;
+	margin-top: 10px;
+}
+.pagespanel {
+	float: left;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+.col_message {
+	vertical-align: top;
+	padding-top: 0px;
+}
+.quote {
+	color: olive;
+}
+.separator {
+	font-size: 12px;
+	color: #888;
+	padding: 15px 0px 5px 40px;
+	font-style: italic;
+}
+.footer {
+	text-align: center;
+	clear: both;
+	font-size: 12px;
+}
+#footer_hr {
+	display: none;
+}
+.highlight_parent {
+	padding: 5px;
+	border: 2px dashed #EE6600;
+	color: #333333;
+	background: #EEDACB;
+}
+.highlight_child  {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 5px;
+	background: #EEDACB;
+	border: 2px dashed #EE6600;
+	color: #333333;
+}
