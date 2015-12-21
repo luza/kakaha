@@ -1,3 +1,5 @@
+Consider not using this app as it was written more than 4 years ago, the code is full of bad coding practices, it's dirty, slow and probably contains many security issues. There so many better projects around!
+
 Summary
 ~~~~~~~
 Kakaha, lightweight imageboard engine written in PHP. Uses SQLite as database backend.
